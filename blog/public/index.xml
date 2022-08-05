@@ -1,10 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>The compute blog</title>
-    <link>http://blog.anshaj.dev/</link>
-    <description>Recent content on The compute blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://blog.anshaj.dev/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Compute: A programing blog on The compute blog</title><link>http://blog.anshaj.dev/</link><description>Recent content in Compute: A programing blog on The compute blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 04 Aug 2022 20:47:01 +0530</lastBuildDate><atom:link href="http://blog.anshaj.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>How to create wesites easily with Hugo</title><link>http://blog.anshaj.dev/posts/how-to-create-websites-easily-with-hugo/</link><pubDate>Thu, 04 Aug 2022 20:47:01 +0530</pubDate><guid>http://blog.anshaj.dev/posts/how-to-create-websites-easily-with-hugo/</guid><description>If you&amp;rsquo;re like me and want an easy way to make and publish your website, this article is for you. I&amp;rsquo;ll cover how I made this current site with minimal effort and almost zero investment.
+Heading 2</description></item></channel></rss>

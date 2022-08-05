@@ -1,7 +1,7 @@
 ---
 title: "How to create wesites easily with Hugo"
 date: 2022-08-04T20:47:01+05:30
-draft: true
+draft: false
 featured_image: cover.jpg
 ---
 

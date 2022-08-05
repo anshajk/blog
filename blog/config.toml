@@ -2,4 +2,3 @@ baseURL = 'http://blog.anshaj.dev/'
 languageCode = 'en-us'
 title = 'The compute blog'
 theme = "ananke"
-resourceDir = "../resources"
