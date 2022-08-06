@@ -8,4 +8,4 @@ cascade:
   featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
 
-Welcome to my blog with some of my work in progress. I've work in software and write posts on the same. 
+Welcome to my blog with some of my work in progress. I work in software and write posts on the software engineering, data engineering and machine learning. I ocassionally also write on productivity and astrophysics. 
